@@ -15,3 +15,5 @@ Analyzed how different product categories contribute to overall sales and order 
 Identified the best-selling products to highlight key revenue drivers.
 ### Orders on Weekdays: 
 Explored sales data across weekdays to see which days have the highest number of orders.
+
+![coffeeshop](https://github.com/user-attachments/assets/531bc57f-4b17-4574-9aae-14061b59b6a1)
